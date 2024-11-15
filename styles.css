@@ -98,7 +98,7 @@ header.scrolled {
 
 .navbar-links {
     display: flex;
-    margin-right: -120px;
+    margin-right: -100px;
     gap: 20px;
     list-style-type: none;
 }
